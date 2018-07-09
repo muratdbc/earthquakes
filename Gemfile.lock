@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    httpparty (0.0.7)
+    slop (4.6.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  httpparty
+  slop
+
+RUBY VERSION
+   ruby 2.3.1p112
+
+BUNDLED WITH
+   1.14.6
